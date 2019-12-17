@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "API-AWS-Connect-App-executor",
+    "name": "API-AWS-Connect-App",
+    "region": "eu-west-3"
+  },
+  "api": {
+    "id": "ldt8y7l2fj"
+  }
+}
